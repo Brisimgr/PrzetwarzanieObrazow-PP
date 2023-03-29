@@ -5,7 +5,7 @@
 * [Setup](#setup)
 * [Additional information](#additional-information)
 ## General information
-This project is a simple editor of .ppm and .pgm files. It allows the user to apply filters and edit the files by using terminal commands.
+This project was made in Podstawy Programowania during my 1st semsester. It is a simple editor of .ppm and .pgm files. It allows the user to apply filters and edit the files by using terminal commands.
 ## Technologies
 The project is created with:
 * gcc
