@@ -40,7 +40,7 @@ int main(int argc, char ** argv) {
 /*
 Test 1: 
 Cel: Sprawdzenie poprawnosci dzialania funkcji wczytaj oraz zapisz
-Dane wejsciowe: ./przetwarzanieObrazowV2 -i kubus.ppm -o zapis.pp
+Dane wejsciowe: ./przetwarzanieObrazowV2 -i kubus.ppm -o zapis.ppm
 Dane wyjsciowe: Opcje poprawne
 Rezultat: Program dziala poprawnie. W pliku zapis.ppm jest ten sam obrazek co w kubus.ppm
 
