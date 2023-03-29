@@ -3,7 +3,7 @@
 * [General information](#general-information)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Additional information](#additional-information)
+* [List of options](#list-of-options)
 ## General information
 This project was made in Podstawy Programowania class during my 1st semester. It is a simple editor of .ppm and .pgm files. It allows the user to apply filters and edit the files by using terminal commands.
 ## Technologies
